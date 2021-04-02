@@ -1,0 +1,10 @@
+{
+    "name": "voice",
+    "version": "1.0.0",
+    "main": "app.js",
+    "dependencies": {
+        "@picovoice/porcupine-node": "^1.9.0",
+        "artyom.js": "^1.0.6",
+        "node-record-lpcm16": "^1.0.1"
+    }
+}
